@@ -1,4 +1,4 @@
-# Amigo Secreto - Desafío 1 Oracle Next Education
+# Amigo Secreto - Desafío 1 - Oracle Next Education
 
 Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "Amigo Secreto" de una lista de participantes. Es una herramienta sencilla y divertida para organizar intercambios de regalos u otras actividades de amigo secreto. Este proyecto fue desarrollado como un desafío para el programa Oracle Next Education (ONE) con el objetivo de mejorar mis habilidades en lógica de programación.
 
@@ -15,7 +15,7 @@ Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "A
 
 ## Cómo Usar
 
-1.  **Abre el archivo `index.html`** en tu navegador web.
+1.  **Accede a [https://gabiimollo.github.io/OracleNextEducation-Challenges-AmigoSecreto/]** en tu navegador web.
 2.  **Ingresa los nombres:** En el campo de entrada, escribe el nombre de un participante y haz clic en el botón "Añadir".
 3.  **Repite:** Repite el paso 2 para cada participante que desees incluir.
 4.  **Sortear:** Una vez que hayas añadido todos los nombres, haz clic en el botón "Sortear amigo".
@@ -52,7 +52,7 @@ Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "A
 *   **Campo de Entrada (input):** Permite al usuario ingresar el nombre de un participante.
 *   **Botón "Añadir":** Activa la función `agregarAmigo()`.
 *   **Lista de Nombres:** Muestra la lista de nombres añadidos.
-* **Lista de resultado**: Muestra el nombre sorteado.
+*   **Lista de resultado**: Muestra el nombre sorteado.
 *   **Botón "Sortear amigo":** Activa la función `sortearAmigo()`.
 
 ## Mejoras Potenciales
@@ -70,8 +70,8 @@ Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "A
 
 ## Créditos
 
-*   Este proyecto fue creado por [Tu Nombre/Usuario de GitHub] como un desafío para el programa Oracle Next Education (ONE).
-* He usado imágenes de icones8 para ilustrar el proyecto.
+*   Este proyecto fue creado por [Juan Gabriel Mollo] como un desafío para el programa Oracle Next Education (ONE).
+*   He usado imágenes de icones8 para ilustrar el proyecto.
 
 ## Licencia
 
