@@ -21,6 +21,8 @@ Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "A
 4.  **Sortear:** Una vez que hayas añadido todos los nombres, haz clic en el botón "Sortear amigo".
 5.  **Ver el resultado:** El "amigo secreto" seleccionado aleatoriamente se mostrará en la pantalla.
 
+<video controls src="20250317-1848-15.4807331.mp4" title="Video de ejemplo de uso"></video>
+
 ## Estructura del Proyecto
 
 *   `index.html`: El archivo HTML principal que proporciona la estructura y la interfaz de usuario de la aplicación.
