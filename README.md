@@ -1,4 +1,4 @@
-# Amigo Secreto - Desafío ONE
+# Amigo Secreto - Desafío 1 Oracle Next Education
 
 Este proyecto es una aplicación web diseñada para sortear aleatoriamente un "Amigo Secreto" de una lista de participantes. Es una herramienta sencilla y divertida para organizar intercambios de regalos u otras actividades de amigo secreto. Este proyecto fue desarrollado como un desafío para el programa Oracle Next Education (ONE) con el objetivo de mejorar mis habilidades en lógica de programación.
 
